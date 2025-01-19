@@ -4,7 +4,7 @@
 
 | **Category**                | **Name**                       | **Link**                                                                                     |
 |-----------------------------|--------------------------------|---------------------------------------------------------------------------------------------|
-| **Legal Services**          | Lawyers 1                     | [Link](**https://drive.google.com/file/d/1i1lSYXBLN6TyVXDSgmsa2GkiaxA019Kg/view**)              |
+| **Legal Services**          | Lawyers 1                     | [Link](https://drive.google.com/file/d/1i1lSYXBLN6TyVXDSgmsa2GkiaxA019Kg/view)              |
 |                             | Lawyers 2                     | [Link](https://drive.google.com/file/d/1i1lSYXBLN6TyVXDSgmsa2GkiaxA019Kg/view)              |
 |                             | Lawyers 3                     | [Link](https://drive.google.com/file/d/1i1lSYXBLN6TyVXDSgmsa2GkiaxA019Kg/view)              |
 | **Real Estate**             | Condominium Administration    | [Link](https://www.canva.com/design/DAEW9SBQic/KPXuPC3rwU5RS-PtROM1UQ/view)                 |
